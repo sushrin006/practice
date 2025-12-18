@@ -108,8 +108,32 @@ const arr=[
 // console.log(arr)
 
 // const arr=[ 1,2,3,4]
-const initialvalue = 1;
-const multiplication = arr.sort((a,b)=>b.age-a.age);
-console.log(multiplication)
+// const initialvalue = 1;
+// const multiplication = arr.sort((a,b)=>b.age-a.age);
+// console.log(multiplication)
+
+
+// function fn(){
+//     console.log("helloooo worlddd")
+// }
+// fn()
+
+// function fn(a,b){
+//     console.log(a+b)
+// }
+// fn(10,11)
+
+// function fn(){
+//     return"hiiiii"
+// }
+// const a=fn();
+// console.log(a)
+
+// function fn(a,b){
+//     return a+b
+// }
+// const a= fn(10,12)
+// console.log(a)
+
 
 
