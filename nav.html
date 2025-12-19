@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        .nav{
+            display: flex;
+            justify-content: space-between;
+            background-color:#E9F3F4 ;
+            padding: 10px 12px;
+            align-items: center;
+        }
+        ul li{
+            display: block;
+        }
+        body{
+            background-color: #E9F3F4;
+        }
+        .primary-buttom{
+            border-radius: 10px;
+            color: white;
+            background-color:#2A8E9E ;
+            border: none;
+            padding: 8px 12px 8px 12px;
+
+        
+        }
+        .secondary-buttom{
+           border-radius: 10px;
+            color: black;
+            border: 1px solid rgb(134, 131, 131);
+            padding: 8px 12px 8px 12px;  
+            background-color: transparent;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="nav";  style="display: flex; align-items: center;">
+         <ul style="display: flex;gap: 30px;" >
+            <div style="display: flex;gap: 60px;">
+
+                <div style="font-size:30px">
+                    <li>Finpay</li>
+                </div>
+                
+                <div style="display: flex; align-items: center;gap: 30px;">
+                    
+                    
+                    <li>Products</li>
+                    <li>Customers</li>
+                    <li>Pricing</li>
+                    <li>Learn</li>
+                </div>
+            </div>
+            
+        </ul>
+        <div class="button-container"   style="display: flex;gap: 10px;">
+
+            <button class="secondary-buttom">Login</button>
+            <button class="primary-buttom" > Sign Up</button>
+        </div>
+    </div>
+</body>
+</html>

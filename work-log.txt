@@ -1,3 +1,4 @@
 16th December ===> Basic HTML and Basic CSS
 17th December ===> Made Calender, Started Javascript and SQL(Data Manipulation Language"Select","Update","Insert","Delete")
 18th December ===> Array Methods in Javascript and Learnt about basic git
+19th December ===> made nav bar, learnt about SQL(Data Definition Language "Alter","Create") , Functions type in JavaScript
