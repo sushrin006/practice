@@ -4,3 +4,8 @@
 19th December ===> Made nav bar, learnt about SQL(Data Definition Language "Alter","Create") , Functions type in JavaScript
 22 December ===> Started react learnt about components , objects in javascript .
 23 December ===> Learnt about useState, tailwindcss, made sidebar component.
+24 December ===> Learnt about useEffect , api
+25 December ===> Did few api task (get, post, put, delete, patch)
+26 December ===> Learnt about async function ,promise, promise hell, callback fn,call back hell . 
+29 December ===> Learnt about headless component and did some task.
+
