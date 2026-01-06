@@ -8,4 +8,7 @@
 25 December ===> Did few api task (get, post, put, delete, patch)
 26 December ===> Learnt about async function ,promise, promise hell, callback fn,call back hell . 
 29 December ===> Learnt about headless component and did some task.
-
+31 December ===> leant about responsive design and how to handle them.
+1 January ===> leant about form validation using react hook form and zod.
+2 January ===> Revised every topics.
+5 January ===> learnt about promise and fetch api.

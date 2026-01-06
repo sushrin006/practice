@@ -157,3 +157,4 @@ console.log(Object.keys(a));
 // console.log(Object.entries(a)[0])
 
 Object.values(a).map((d, i) => console.log(i + 1, ",", d));
+// Object.entries(a).map((d,i)=>console.log(i+1,",",d))
