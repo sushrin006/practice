@@ -12,3 +12,4 @@
 1 January ===> leant about form validation using react hook form and zod.
 2 January ===> Revised every topics.
 5 January ===> learnt about promise and fetch api.
+6 January ===> started typescript ,learnt about utility types of typescript.
